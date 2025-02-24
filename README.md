@@ -1,1 +1,3 @@
 # MKEPL_PRAKTIKUM
+
+### Repository ini dibuat untuk Tugas Mata Kuliah MANAJEMEN KONFIGURASI DAN EVOLUSI PERANGKAT LUNAK SE-06-01 [YIS]
